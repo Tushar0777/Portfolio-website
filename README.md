@@ -9,6 +9,7 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 also when doing this you can get an issue with the version specified for the react-tilt package in your package.json
 
 to resolve this you need to do the following steps 
+## 📋 <a name="table">Table of Contents</a>
 1. go to your package.json
 2.you will se a code like this 
 ```bash
