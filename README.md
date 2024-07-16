@@ -47,8 +47,7 @@ and then
 ```bash
 npm run dev
 ```
-....................................................................
-
+##
 if the above way doesn't work then you have to remove the react-tilt  
 
 so the installation codes becomes 
@@ -61,7 +60,7 @@ then
 npm install vite
 npm run dev
 ```
-.......................................................................
+
 if you have anyother way to run feel free to add it in this readme and help me and others
 
 
