@@ -11,6 +11,8 @@ also when doing this you can get an issue with the version specified for the rea
 to resolve this you need to do the following steps 
 ##  <a name="table">Resolving the React-tilt-Version error</a>
 1. go to your package.json
+
+   
 2.you will se a code like this 
 ```bash
     {
