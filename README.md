@@ -63,7 +63,7 @@ npm install vite
 npm run dev
 ```
 
-if you have anyother way to run feel free to add it in this readme and help me and others
+if you have anyother way to run feel free to add it in this readme to help me and others
 
 
 
