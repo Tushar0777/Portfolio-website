@@ -1,7 +1,7 @@
 ## Video Tutorial
 If you'd prefer a step-by-step visual guide, watch this video:
 
-[Download and watch the tutorial](./assects/portfolio)
+[Download and watch the tutorial](./assects/portfolio.mp4)
 
 
 
