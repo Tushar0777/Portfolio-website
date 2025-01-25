@@ -3,7 +3,7 @@
 If you'd prefer a step-by-step visual guide, watch the tutorial directly below:
 
 <video controls width="600">
-  <source src="./assects/portfolio.mp4" type="video/mp4">
+  <source src="portfolio.mp4" type="video/mp4">
   Your browser does not support the video tag. Please download the video to watch it.
 </video>
 
