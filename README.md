@@ -1,3 +1,10 @@
+## Video Tutorial
+If you'd prefer a step-by-step visual guide, watch this video:
+
+[Download and watch the tutorial](./assects/portfolio)
+
+
+
 to install and run this on your local device you need to run the following comands 
 
 ```bash
