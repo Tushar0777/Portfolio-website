@@ -1,11 +1,13 @@
 ## Video Tutorial
 
 If you'd prefer a step-by-step visual guide, watch the tutorial directly below:
+or go to the portfolio.mp4 and download the video to see what i have done 
 
 <video controls width="600">
   <source src="portfolio.mp4" type="video/mp4">
   Your browser does not support the video tag. Please download the video to watch it.
 </video>
+
 
 
 
